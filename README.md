@@ -41,7 +41,7 @@ Here is an example of the `phpcs.xml`
 ```xml
 <?xml version="1.0"?>
 <ruleset name="My Coding Standards">
-  <description>My Coding Standards extends WordPress-Extra & PSR-2</description>
+  <description>My Coding Standards extends WordPress-Extra and PSR-2</description>
 
   <rule ref="WordPress-PSR2" />
 
